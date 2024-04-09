@@ -62,4 +62,4 @@ Accuracies and results of Algorithms used
 Implementing a Machine learning algorithms for disease detection aims to improve the accuracy, efficiency, and effectiveness of disease identification and management in health care sectors , leading to early disease detection losses.
 After building the model we can deploy a web app so that it can be easily accessible to public
 
-<br>Shubham kumar singh</br>
+<br>Sanyukta Shukla</br>
