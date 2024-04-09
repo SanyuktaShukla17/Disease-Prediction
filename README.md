@@ -1,5 +1,6 @@
 ### Multiple Disease prediction web app
-
+## Link to the web app:
+https://disease-prediction1.streamlit.app/
 ## Deployment
 
 To deploy this project run the given snippet in terminal.
