@@ -1,5 +1,5 @@
 ### Multiple Disease prediction web app
-## Link to the web app:
+## Link to the web app
 https://disease-prediction1.streamlit.app/
 ## Deployment
 
